@@ -1,6 +1,4 @@
-<p>
-  Hi there 👋
-</p>
+<h2> Hey, I'm Linus </h2>
 <br><br>
 
 ### Known Technologies

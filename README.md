@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,quarkus,react,ts,html,css)](https://skillicons.dev)
 
 <!--
 **linuslellig/linuslellig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

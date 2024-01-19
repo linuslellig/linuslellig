@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg5dHN1OWR1azRtenE0aWlldTB2dnA2eTd4Z3kwdGE3dDRvbnN1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g0kv2bTihoOZy/giphy.gif" width="500">
-<br><br>
+<br>
 </p>
 
 <h2> Hey, I'm Linus! </h2>

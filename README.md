@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://github.com/linuslellig/linuslellig/assets/59207689/854e4424-cc03-4351-b411-07073bdbd9f1" width="500">
-</p>
+
 
 <h2> Hey, I'm Linus! </h2>
 <p>

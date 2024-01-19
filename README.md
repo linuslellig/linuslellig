@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg5dHN1OWR1azRtenE0aWlldTB2dnA2eTd4Z3kwdGE3dDRvbnN1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g0kv2bTihoOZy/giphy.gif" width="500">
+    <img src="[catgiphy](https://github.com/linuslellig/linuslellig/assets/59207689/854e4424-cc03-4351-b411-07073bdbd9f1)" width="500">
 <br>
 </p>
 

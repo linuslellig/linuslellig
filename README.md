@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,ts,js,html,css,haskell)](https://skillicons.dev)
 
 ### Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=spring,react,postgres,git,gradle,docker,ros,github,gitlab,azure,postman,mysql,mui,atom,vscode,latex,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,spring,react,postgres,git,gradle,docker,ros,github,gitlab,azure,postman,mysql,mui,atom,vscode,latex,idea)](https://skillicons.dev)
 
 
 

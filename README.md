@@ -2,7 +2,7 @@
 
 <h2> Hey, I'm Linus! </h2>
 <p>
-  I'm a student of Computer Science and Artificial Intelligence at The University of Sheffield, and I am currently on placement as a Software Engineer at Novatec Consulting GmbH
+  I'm a student of Computer Science and Artificial Intelligence at The University of Sheffield, and I was previously on placement as a Software Engineer at Novatec Consulting GmbH
 </p>
 
 ### Languages
